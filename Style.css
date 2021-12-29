@@ -1,0 +1,40 @@
+a { 
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+body{
+    text-align: center;
+    padding: 20px;
+    background-color: violet;
+}
+
+.form{
+    padding-bottom:50px;
+    margin: 0px 400px;
+    
+    background-color: gray;
+    border: solid white 5px;
+}
+.form-label label{
+    padding-top: 20px;
+    display:block;
+    margin: 10px;
+
+             
+}
+    .form-label input[type="text"]{
+        text-align: center;
+    }
+    .form-label input[type="submit"]{
+        margin-top:15px;
+        padding top:10px;
+    }
+    .check{
+        margin: 10px;
+    }
+    .form-label input[type="submit"]{
+        padding bottom:10 px;
+    }
+
